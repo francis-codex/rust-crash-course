@@ -2,6 +2,10 @@
 // about unused code
 // Attributes - metadata for the compiler
 #![allow(unused)]
+fn main() {
+    // This line prints "Hello, world!" to the console
+    println!("Hello, Rust!");
+}
 
 // main() is the entry point of Rust program
 
